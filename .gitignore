@@ -129,7 +129,7 @@ data/cache/
 # Model Files
 # ============================================================
 
-models/
+
 checkpoints/
 
 *.pt
